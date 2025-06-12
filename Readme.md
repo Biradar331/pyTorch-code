@@ -8,3 +8,4 @@ train the model by running the train.py file
 
 use the streamlit and run the project in the browser
 -> streamlit run outlook.py
+and u will get the output in the browser with the graphs
